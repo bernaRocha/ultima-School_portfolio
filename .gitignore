@@ -130,4 +130,5 @@ dmypy.json
 
 
 #### Feito por mim
-/data
+*/data
+*.txt
